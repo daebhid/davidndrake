@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>David Nicholas Drake</title>
+	<style>
+		body {
+			font-family: Avenir, sans-serif;
+			font-size: small;
+			padding: 50px;
+		}
+		h1, h2, h3, h4, h5, h6 {
+			margin: 0;
+		}
+		.grid {
+			display: grid;
+			grid-template-columns: 1fr 1fr;
+			grid-gap: 20px;
+			margin-top: 50px;
+		}
+		.grid img {
+			max-width: 100%;
+			height: auto;
+		}
+	</style>
+</head>
+<body>
+	<p><i>David Nicholas Drake</i> (b. 1986, New York) is a self-taught American writer and director based in the UK.</p>
+	<p>His feature film <i>Dead Letters</i> is being produced by Sam Bank and Helene Sifre of <a href="https://www.braintrust.tv/about" target="_blank">Braintrust</a>, and is set to shoot during 2023. He is also developing two more feature films with Braintrust called <i>Law of Sines</i> and <i>A Burning Cloud</i>. David has directed and produced more than half a dozen shorts with the support of various funding bodies such as the BFI Network and Lithuanian Film Centre. His work has gone on to premiere on Vimeo Staff Picks, NOWNESS, and at various international film festivals.</p>
+	<p><a href="mailto:davidnicholasdrake@gmail.com">davidnicholasdrake@gmail.com</a><br>
+	+44 7511 792549</p>
+	<div class="grid">
+		<div>
+			<a href="https://vimeo.com/746423508" target="_blank"><img src="https://images.squarespace-cdn.com/content/v1/5d10d09b00edf1000143f8e2/1662576161401-HVLVXI9WS5KRVKYBA6YG/585x330_LARGE_sp.jpg"></a>
+		</div>
+		<div>
+			<a href="https://vimeo.com/527164103" target="_blank"><img src="https://images.squarespace-cdn.com/content/v1/5d10d09b00edf1000143f8e2/1616416794309-EBTZC84NZ0O4YLM38MAD/Post398_B_Hyper.jpg"></a>
+		</div>
+		<div>
+			<a href="https://vimeo.com/309097061" target="_blank"><img src="https://images.squarespace-cdn.com/content/v1/5d10d09b00edf1000143f8e2/1588926381606-V5C3U7R4UGTVUNQ5THC0/HOLDING+IMAGE.jpg"></a>
+		</div>
+		<div>
+			<a href="https://vimeo.com/399813164" target="_blank"><img src="https://images.squarespace-cdn.com/content/v1/5d10d09b00edf1000143f8e2/1588926740538-R9Y9XTFRZUUAGQELT330/OfflineCover.jpg"></a>
+		</div>
+        <div>
+			<a href="https://vimeo.com/291566185" target="_blank"><img src="https://images.squarespace-cdn.com/content/v1/5d10d09b00edf1000143f8e2/1588926451188-7UDBEMZUOQ3E3DUSXTC5/PartyWall_16_9.jpg"></a>
+		</div>
+        
+        <div>
+			<a href="https://vimeo.com/375340653" target="_blank"><img src="https://images.squarespace-cdn.com/content/v1/5d10d09b00edf1000143f8e2/1588926500769-R7RP3JL679EI41JF30NG/EarlyBirdLander.jpg"></a>
+		</div>
+	</div>
+</body>
+</html>
